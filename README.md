@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Hrant24
+- 👋 Hi, I’m @Hrant28
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C#
+- 🌱 I’m Entry-Level Data Analyst
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
