@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hrant28
+- 👋 Hi, I’m @Hrant
 - 👀 I’m interested in Coding
 - 🌱 I’m Entry-Level Data Analyst
 - 💞️ I’m looking to collaborate on ...
